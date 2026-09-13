@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.AndroidAppDevelopmentTask3Calculator" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+
+    <style name="Theme.AndroidAppDevelopmentTask3Calculator" parent="Base.Theme.AndroidAppDevelopmentTask3Calculator" />
+    <style name="CalcButton" parent="Widget.AppCompat.Button">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">80dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textSize">28sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="backgroundTint">#333333</item>
+        <item name="android:layout_margin">4dp</item>
+        <item name="cornerRadius">16dp</item>
+    </style>
+</resources>
